@@ -1,4 +1,12 @@
 # T-rinfoAlkPtoba2026
 Ide első bemutató repozotóriumom.
-csapágy
-Kuplung
+
+## Alkatrészek
+
+* csapágy
+* Kuplung
+* Tárcsa
+* Bovden
+* KIegyenlító
+* Légszűrő
+* Fékbetét
