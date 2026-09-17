@@ -14,3 +14,15 @@ Ide első bemutató repozotóriumom.
 ## Olajcsere
 
 Nézd meg az alkatrészekről a videót [itt](https://www.youtube.com/watch?v=O1hF25Cowv8)
+
+## Műhely
+
+Baross ut 4
+
+
+## Időpontok 
+
+* Hetfő 9:00 
+* Kedd 10:00
+* Csütörtök 15:00 
+* Péntek 7:00 
