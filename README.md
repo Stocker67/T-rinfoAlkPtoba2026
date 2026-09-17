@@ -11,6 +11,6 @@ Ide első bemutató repozotóriumom.
 * Légszűrő
 * Fékbetét
 
-##Alkatrész videó
+## Olajcsere
 
 Nézd meg az alkatrészekről a videót [itt](https://www.youtube.com/watch?v=O1hF25Cowv8)
